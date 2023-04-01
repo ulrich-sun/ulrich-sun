@@ -1,5 +1,5 @@
 ### Hi there, I'm < Ulrich SUN > 👋
-💻 My name is Ulrich Steve NOUMSI, Engineer in computer systems and networks (Bac+3), graduate of the African Institute of Informatics (IAI) representation of Cameroon, Design Engineer in Administration and security of computer networks (Bac+5) I live in Cameroon and I am currently training in Cloud engineering.
+💻 My name is Ulrich Steve NOUMSI, Engineer in computer systems and networks (Bac+3), graduate of the African Institute of Informatics (IAI) representation of Cameroon, Design Engineer in Administration and security of computer networks (Bac+5) ENSPD I live in Cameroon and I am currently training in Cloud engineering.
 
 I have 03 years of experience in DevOps and Cloud more precisely on Amazon Web Services (AWS) and Microsoft Azure.
 
@@ -11,11 +11,6 @@ And I joined Connect Technology as a DevOps Engineer and Systems Administrator w
 
 My future goal is to be able to put together my knowledge and technical skills in DevOps, Cloud and Cybersecurity in order to have as a result a profile of a DevSecOps and Cloud AWS / Azure Engineer.
 
-<!--
-**ulrich-sun/ulrich-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Kubernetes, Ansible, Terraform, Docker, Linux, Azure
 - 🌱 I’m currently learning Cloud Azure
 - 💬 I speak French(Native) & English (B2)
@@ -23,4 +18,10 @@ Here are some ideas to get you started:
   + ![mail](ulrichnoumsi98@gmail.com)
   + ![Linkedin](https://www.linkedin.com/in/ulrich-steve-noumsi/)
 - ⚡ From Cameroun
+
+<!--
+**ulrich-sun/ulrich-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 -->
+
