@@ -1,3 +1,12 @@
+![Ulrich NOUMSI's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ulrich-sun&show_owner)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulrich-sun&langs_count=10&hide=javascript,html,php,python)
+
+
+
+
+
+
 ### Hi there, I'm < Ulrich SUN /> 👋
 💻 My name is Ulrich Steve NOUMSI, Engineer in computer systems and networks (Bac+3), graduate of the African Institute of Informatics (IAI) representation of Cameroon, Design Engineer in Administration and security of computer networks (Bac+5) ENSPD I live in Cameroon and I am currently training in Cloud engineering.
 
