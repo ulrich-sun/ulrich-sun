@@ -18,10 +18,12 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ulrich-sun&show_owner&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulrich-sun&langs_count=10&hide=javascript,html,php,python&theme=default)
+![Profile Views](https://komarev.com/ghpvc/?username=ulrich-sun&color=1f6feb&style=flat&label=Profile+Views)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ulrich-sun&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ulrich-sun&show_owner&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulrich-sun&langs_count=10&hide=javascript,html,php,python&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ulrich-sun&theme=github-dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
 
