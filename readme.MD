@@ -17,12 +17,33 @@
 
 ---
 
-🖥️ **Infra** — Linux · Azure · AWS · Terraform · Terragrunt · Ansible  
-🚀 **Déploiement** — Kubernetes · Helm · Docker · ECS Fargate · GitHub Actions · GitLab CI/CD  
-📡 **Monitoring** — Prometheus · Grafana · CloudWatch
+**🖥️ Infra**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Terragrunt](https://img.shields.io/badge/Terragrunt-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+
+**🚀 Déploiement**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![ECS Fargate](https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+**📡 Monitoring**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ulrich--steve--noumsi-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ulrich-steve-noumsi/)
 [![GitHub](https://img.shields.io/badge/GitHub-ulrich--sun-181717?style=flat&logo=github)](https://github.com/ulrich-sun)
+[![YouTube](https://img.shields.io/badge/YouTube-SUNDATACONSULTING-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@SUNDATACONSULTING)
 [![Email](https://img.shields.io/badge/Email-ulrichnoumsi98@gmail.com-D14836?style=flat&logo=gmail)](mailto:ulrichnoumsi98@gmail.com)
 
 </div>
