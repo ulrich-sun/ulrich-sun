@@ -2,9 +2,18 @@
 
 # Ulrich NOUMSI
 
-**Administrateur Systèmes & Réseaux · Sécurité des Réseaux · DevSecOps · Cloud Engineer · Trainer · Team Builder**
+**Systems & Network Administrator · Network Security · DevSecOps · Cloud Engineer · Trainer · Team Builder**
 
-🏅 `CKA` · `Azure Administrator (AZ-104)` · `AZ-900` · `Terraform Associate 003` · `RHCSA (KodeKloud)`
+🏅 **Certifications officielle**
+
+[![Terraform 004](https://img.shields.io/badge/HashiCorp-Terraform_Associate_004-7B42BC?style=flat&logo=terraform)](https://www.credly.com/badges/4eea6e95-3a1e-4eb7-8b14-4675b87452fa)
+[![Terraform 003](https://img.shields.io/badge/HashiCorp-Terraform_Associate_003-7B42BC?style=flat&logo=terraform)](https://www.credly.com/badges/f8e6e763-85e2-4b54-a465-879897e1c434)
+[![CKA](https://img.shields.io/badge/Linux_Foundation-CKA-326CE5?style=flat&logo=kubernetes)](https://www.credly.com/badges/3dfb0e51-0d66-407d-9ec9-d2fdaed3641a)
+[![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat&logo=microsoftazure)](https://learn.microsoft.com/api/credentials/share/en-us/NOUMSIULRICHSTEVE-4309/6EDED2B633B89A82?sharingId=F9F95DE333DEFA09)
+[![EKS](https://img.shields.io/badge/AWS-Amazon_EKS-FF9900?style=flat&logo=amazonaws)](https://www.credly.com/badges/cc9d764e-ea6d-4270-9aba-e7f56e50ba4d)
+[![GitOps](https://img.shields.io/badge/Linux_Foundation-LFS169_GitOps-003366?style=flat&logo=linux)](https://www.credly.com/badges/9a7f493c-00ab-436b-84d2-a1bc2bc4dccc)
+[![RHCSA](https://img.shields.io/badge/KodeKloud-RHCSA-EE0000?style=flat&logo=redhat)](https://kodekloud.com/certificate-verification/7CBD5739C5-2D0D5EDF45B8-7CB724291D/)
+[![CKS](https://img.shields.io/badge/KodeKloud-CKS_Challenges-326CE5?style=flat&logo=kubernetes)](https://kodekloud.com/certificate-verification/7CBD5739C5-2D040F1A0F87-7CB724291D/)
 
 ---
 
