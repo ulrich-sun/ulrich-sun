@@ -1,33 +1,60 @@
-# Hello 👋
+<div align="center">
 
-[![Profile views](https://komarev.com/ghpvc/?username=ulrich-sun&label=Profile%20views&color=0ea5e9&style=flat)](https://github.com/ulrich-sun)
+# Ulrich NOUMSI
 
-I'm **Ulrich Steve NOUMSI**
+**DevOps & Cloud Engineer**
 
-☁️ DevSecOps & Cloud Engineer · Kubernetes · IaC · Secrets Management · Montréal 🇨🇦
+☁️ Linux · Kubernetes · Terraform · Terragrunt · Azure · AWS
 
-🎓 Certified: HashiCorp Terraform Associate · Azure AZ-900 · RHCSA · GitOps (LFS169)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ulrich--steve--noumsi-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ulrich-steve-noumsi/)
+[![GitHub](https://img.shields.io/badge/GitHub-ulrich--sun-181717?style=flat&logo=github)](https://github.com/ulrich-sun)
+[![Email](https://img.shields.io/badge/Email-ulrichnoumsi98@gmail.com-D14836?style=flat&logo=gmail)](mailto:ulrichnoumsi98@gmail.com)
 
-🔗 [linkedin.com/in/ulrich-steve-noumsi](https://www.linkedin.com/in/ulrich-steve-noumsi/)
-
----
-
-## 🚀 Projects
-
-* **[Wellmum](https://wellmum.app/)** : Infrastructure AWS haute disponibilité pour une plateforme FemTech/Digital Health — Terraform, ECS Fargate, NestJS/FastAPI/Next.js.
-* **[EAZYSkills](https://eazyskills.eazytraining.fr/)** : Application EdTech d'orientation par IA générative (ChatGPT) — FastAPI, AWS Lambda, Amplify.
-* **[Ansible Semaphore](https://ansible.eazytraining.fr/)** : Plateforme interne d'automatisation des opérations IT — ECS Fargate, Terraform, GitHub Actions.
-* **[EAZYCard](https://github.com/AnselmeG300/notification-transactions-aws-sdk)** : API FinTech de gestion de cartes virtuelles Revolut — Django REST, AWS Serverless.
-* **[Migration EAZYTraining](https://eazytraining.fr/)** : Refonte IaC complète + FinOps — réduction de 50 % de la facture AWS.
+</div>
 
 ---
 
-## 📊 Stats
+## 📊 Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulrich-sun&show_icons=true&hide_border=true&count_private=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=374151&bg_color=ffffff)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ulrich-sun&hide_border=true&date_format=j%20M%5B%20Y%5D&background=ffffff&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=374151&dates=374151&currStreakNum=374151&sideNums=374151)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ulrich-sun&show_owner&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulrich-sun&langs_count=10&hide=javascript,html,php,python&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ulrich-sun&theme=default)
+
+</div>
 
 ---
 
-*ulrich-sun*
+## 🚀 Client & Training Projects
+
+> Contributions réalisées dans le cadre de collaborations avec [Eazytraining](https://eazytraining.fr).
+
+| Projet | Stack | Description |
+|--------|-------|-------------|
+| [**Wellmum**](https://wellmum.app/) | Terraform · ECS Fargate · NestJS · FastAPI · Next.js | Infrastructure AWS haute disponibilité pour une plateforme FemTech/Digital Health |
+| [**EAZYSkills**](https://eazyskills.eazytraining.fr/) | AWS · ChatGPT · CI/CD | Application EdTech d'orientation par IA générative |
+| [**Ansible Semaphore**](https://ansible.eazytraining.fr/) | ECS Fargate · Terraform · GitHub Actions | Plateforme interne d'automatisation IT |
+| [**Docker Labs**](https://docker.labs.eazytraining.fr/) | Docker | Environnement de labs pour formations hands-on |
+| [**EAZYCard API**](https://github.com/AnselmeG300/notification-transactions-aws-sdk) | AWS Serverless · SDK | API de gestion de cartes virtuelles (FinTech) |
+| [**EAZYTraining Infra**](https://eazytraining.fr/) | IaC · FinOps | Refactoring IaC et optimisations orientées FinOps |
+
+---
+
+## 📚 Formations créées & publiées
+
+| Formation | Plateforme |
+|-----------|------------|
+| [**Terragrunt pour DevOps**](https://www.eazytraining.fr/cours/terragrunt-pour-devops/) — Structurer, factoriser et industrialiser des projets Terraform via un projet fil rouge | Eazytraining |
+| [**AWS Certified Associate — Architect & SysOps**](https://www.eazytraining.fr/cours/devenez-aws-certified-associate-architect-et-sysops/) — Préparation aux certifications AWS avec pratique intensive | Eazytraining |
+| [**Platform Engineer Kubernetes**](https://www.eazytraining.fr/cours/platform-engineer-kubernetes/) — Bootcamp Platform Engineering : clusters, Helm, CI/CD, automatisation | Eazytraining |
+| [**Terraform Cloud**](https://www.eazytraining.fr/cours/terraform-cloud/) — State management, workspaces, pipelines et gouvernance en équipe | Eazytraining |
+
+---
+
+## 🧪 Labs & Projets personnels
+
+- **mini-projet-gitlab** — Pipeline CI/CD GitLab sur AWS : provisioning d'infrastructure, runners et déploiement automatisé.
+- **Kubernetes labs** — Pratique personnelle de Kubernetes (deployments, services, configs) combinée à CI/CD et IaC.
+- **DevSecOps & Terragrunt repos** — Exercices pratiques autour du DevSecOps et de Terragrunt en contexte de formation.
