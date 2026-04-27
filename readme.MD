@@ -2,9 +2,15 @@
 
 # Ulrich NOUMSI
 
-**DevOps & Cloud Engineer**
+**Administrateur Systèmes & Réseaux · Sécurité des Réseaux · DevSecOps · Cloud Engineer · Trainer · Team Builder**
 
-☁️ Linux · Kubernetes · Terraform · Terragrunt · Azure · AWS
+🏅 `CKA` · `Azure Administrator (AZ-104)` · `AZ-900` · `Terraform Associate 003` · `RHCSA (KodeKloud)`
+
+---
+
+🖥️ **Infra** — Linux · Azure · AWS · Terraform · Terragrunt · Ansible  
+🚀 **Déploiement** — Kubernetes · Helm · Docker · ECS Fargate · GitHub Actions · GitLab CI/CD  
+📡 **Monitoring** — Prometheus · Grafana · CloudWatch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ulrich--steve--noumsi-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ulrich-steve-noumsi/)
 [![GitHub](https://img.shields.io/badge/GitHub-ulrich--sun-181717?style=flat&logo=github)](https://github.com/ulrich-sun)
